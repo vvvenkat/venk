@@ -1,0 +1,145 @@
+Intent,Phrase
+greet,Hello there  
+greet,Hi there  
+greet,Good morning  
+greet,Good afternoon  
+greet,Hey there  
+greet,Hi how are you  
+greet,How's it going  
+greet,Hello good to see you  
+greet,Hi can you help me  
+greet,Hey what’s up  
+greet,Good to hear from you  
+greet,Hey there friend  
+greet,Hi hope you're doing well  
+greet,Hey nice to meet you  
+greet,Hi how has your day been  
+greet,Good to meet you today  
+greet,Hey it's great to connect  
+
+thank_you,Thank you so much  
+thank_you,Thanks a lot  
+thank_you,Many thanks  
+thank_you,I really appreciate your help  
+thank_you,Thanks so much for your support  
+thank_you,Thank you for everything you’ve done  
+thank_you,Much appreciated for your assistance  
+thank_you,Thanks for being so helpful  
+thank_you,Thank you very much indeed  
+thank_you,Thanks a ton for your time  
+thank_you,I’m very grateful for your support  
+thank_you,Thank you for your kindness today  
+thank_you,Thanks for helping me today  
+thank_you,I appreciate your assistance immensely  
+thank_you,Thank you a lot for your help today  
+thank_you,Thanks so much for your quick response  
+
+ask_hours,What time do you open  
+ask_hours,What are your working hours  
+ask_hours,When do you close today  
+ask_hours,What time do you start work  
+ask_hours,Can you share your office hours  
+ask_hours,What time are you open in the morning  
+ask_hours,When do you finish for the day  
+ask_hours,Are you open on weekends  
+ask_hours,What are your hours of operation  
+ask_hours,Do you close early on Fridays  
+ask_hours,What are your weekday opening hours  
+ask_hours,When will you open tomorrow  
+ask_hours,What time are you open in the afternoon  
+ask_hours,Can you let me know your working schedule  
+ask_hours,What time do you operate on weekends  
+ask_hours,Do your weekend times differ  
+
+ask_location,Where are you located  
+ask_location,What is your address  
+ask_location,Can you share your office location  
+ask_location,Where can I find your office  
+ask_location,What’s the location of your branch  
+ask_location,Where is your office located  
+ask_location,Can you give me your detailed location  
+ask_location,Where should I come for my appointment  
+ask_location,Could you share your office address  
+ask_location,What is the exact location of your office  
+ask_location,Where is your main branch located  
+ask_location,Could you give me driving directions  
+ask_location,How can I find your office easily  
+ask_location,Where should I visit to meet you  
+ask_location,Where is your office address  
+
+ask_services,What services do you offer  
+ask_services,Can you tell me what you provide  
+ask_services,What types of appointments can I schedule  
+ask_services,What are the new client services you offer  
+ask_services,Do you provide consultations or assessments  
+ask_services,What types of service plans are available  
+ask_services,Could you give me a full overview of services  
+ask_services,What kinds of appointments can I book  
+ask_services,Are there any service options for new clients  
+ask_services,What services are currently available for booking  
+ask_services,Do you have consultation availability  
+ask_services,What services are best for first-time visitors  
+ask_services,What do you specialize in for new client requests  
+ask_services,Can you tell me what you handle  
+
+schedule_booking,I would like to book a time  
+schedule_booking,I want to set up a meeting  
+schedule_booking,Could I schedule an appointment  
+schedule_booking,I’d love to book a consultation  
+schedule_booking,I’d like to confirm a meeting time  
+schedule_booking,Let’s set up a suitable time  
+schedule_booking,I need to schedule this appointment  
+schedule_booking,Could we set a time to meet soon  
+schedule_booking,I’d like to reserve an appointment slot  
+schedule_booking,Please let’s finalize a time for our meeting  
+schedule_booking,I’d like to confirm all details today  
+schedule_booking,Can you fit me into the schedule  
+schedule_booking,I’m ready to secure this time  
+schedule_booking,Could we find a slot that works  
+
+reschedule_booking,I need to reschedule my time  
+reschedule_booking,I’d like to change the meeting time  
+reschedule_booking,Could we select another date for my booking  
+reschedule_booking,I want to move my appointment forward  
+reschedule_booking,Is there any time next week that works  
+reschedule_booking,Can we postpone my appointment by a few days  
+reschedule_booking,I’d like to find another time that fits  
+reschedule_booking,I need to push this back a week  
+reschedule_booking,I’d like to adjust my meeting time  
+reschedule_booking,Can we reschedule for next Friday instead  
+reschedule_booking,I’d prefer if we could reschedule  
+reschedule_booking,Can we find a better time for my appointment  
+
+cancel_booking,I want to cancel this time  
+cancel_booking,I’d like to remove my booking  
+cancel_booking,I need assistance canceling this meeting  
+cancel_booking,Could we cancel this appointment now  
+cancel_booking,I no longer require this appointment  
+cancel_booking,I would like to cancel my reservation  
+cancel_booking,I want to adjust my meeting schedule  
+cancel_booking,Please assist with canceling this request  
+cancel_booking,I’d like to change my meeting schedule  
+cancel_booking,Could you process the cancellation for me  
+cancel_booking,I need help with this cancellation  
+
+finalize_booking,I’m ready to confirm my meeting  
+finalize_booking,Let’s finalize the appointment details  
+finalize_booking,I’d like to lock this time in  
+finalize_booking,I’m prepared to confirm this meeting now  
+finalize_booking,Please confirm the meeting details  
+finalize_booking,Let’s ensure this time is secured  
+finalize_booking,Can we go ahead and confirm this slot  
+finalize_booking,I’d like to complete the booking now  
+finalize_booking,Please finalize this meeting  
+finalize_booking,I want to confirm this appointment  
+
+confirm_details,I want to confirm the booking details  
+confirm_details,Could you verify the time for me  
+confirm_details,I’d like confirmation about the meeting time  
+confirm_details,Could you double-check my reservation  
+confirm_details,I need to verify this date and time  
+confirm_details,Could you verify when I’m scheduled  
+confirm_details,Please confirm if my meeting is tomorrow  
+confirm_details,I’d like to verify my reservation details  
+confirm_details,Could you confirm if I’m scheduled this week  
+confirm_details,I want assurance that this meeting is confirmed  
